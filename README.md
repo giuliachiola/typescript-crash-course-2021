@@ -2,11 +2,11 @@
 
 TypeScript basic tutorial
 
-| \                | \                                                                                                                                  |
-| ---------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| Deploy status    | /                                                                                                                                  |
-| Deploy preview   | /                                                                                                                                  |
-| Project typology | 📒 Step by step from tutorial [TypeScript Crash Course 2021](https://www.youtube.com/watch?v=BCg4U1FzODs&ab_channel=TraversyMedia) |
+| \                | \                                                                                                                                                   |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Deploy status    | /                                                                                                                                                   |
+| Deploy preview   | /                                                                                                                                                   |
+| Project typology | 📒 Step by step from tutorial [TypeScript Crash Course 2021 - Traversy Media](https://www.youtube.com/watch?v=BCg4U1FzODs&ab_channel=TraversyMedia) |
 
 (preview not available)
 
